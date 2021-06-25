@@ -3,7 +3,7 @@
 /**
  * Plugin Name:  Get Products via REST API - Migrate products Demo
  * Description:  Migrate products from remote server .
- * Plugin URI:   https://github.com/srkis
+ * Plugin URI:   https://github.com/srkis/products-migration-plugin
  * Author:       Srdjan Stojanovic
  * Version:      1.0
  * Text Domain:  getpostsviarestapi
